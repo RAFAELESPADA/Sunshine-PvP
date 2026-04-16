@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Home/Desktop/KOMBO-BACKUP-TOTAL/NOVO PVP - 1.8/plugins/ProtocolLib (1).jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Home/Desktop/KOMBO-BACKUP-TOTAL/NOVO PVP - 1.8/plugins/LuckPerms-Bukkit-5.4.134.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Home/Desktop/KOMBO-BACKUP-TOTAL/NOVO PVP - 1.8/plugins/HolographicDisplays.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Home/Desktop/KOMBO-BACKUP-TOTAL/NOVO PVP - 1.8/plugins/npclib-plugin-2.11-SNAPSHOT (1).jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/DEPENDS/FancySpigot.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Home/Downloads/spigot-api-1.8.8-R0.1-20160221.082514-43.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Home/Desktop/SLOWER RANKUP MEDIEVAL E MINIGAMES/RANKUP MEDIEVAL/plugins/TAB v5.5.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Home/Desktop/SLOWER RANKUP MEDIEVAL E MINIGAMES/RANKUP MEDIEVAL/plugins/PlaceholderAPI-2.11.6.jar"/>
+	<classpathentry kind="output" path="out/production/Sunshine - PvP"/>
+</classpath>

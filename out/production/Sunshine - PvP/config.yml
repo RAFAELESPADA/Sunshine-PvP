@@ -1,0 +1,10 @@
+MySQL:
+  user: 'root'
+  host: '127.0.0.1'
+  database: 'Storage'
+  password: ''
+  port: 3306
+Twitter: '@KomboPvP99'
+Discord: 'https://discord.gg/6WKMUSyuph'
+NomeServer: 'KOMBOPVP'
+IP: 'kombopvp.com'

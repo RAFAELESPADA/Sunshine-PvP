@@ -1,0 +1,55 @@
+name: pvp-async
+main: pvp.sunshine.bukkit.BukkitMain
+version: 1.0.0
+authors: [r1ver, Rafael Auler]
+depend: [ProtocolLib]
+commands:
+  chat:
+  gamemode:
+    aliases: [gm]
+  sc:
+  staffchat:  
+  build:
+  tag:
+    aliases: [tags]
+  stafflist:
+  tell:
+  admin:
+    aliases: [v]
+  ranks:
+  donate:
+  tempogrupo:
+  report:
+  resetkdr:
+  fake:
+  solicitar:
+  account:
+  warp:
+  autosoup:
+  hologram:
+  checkaccount:
+  spawn:
+  1v1:
+  kit:
+  lobby:
+    aliases: [hub, l]
+  evento:
+  ping:
+  clear:
+  bc:
+  caixas:
+  c:
+  sumo:
+  stats:
+  addperm:
+  tp:
+  tpcoord:
+  cage:
+  uncage:
+  fly:
+  cvip:
+  stop:
+  setfeast:
+  clan:
+  youtuber:
+    aliases: [yt, midia]
